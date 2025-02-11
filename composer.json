@@ -1,0 +1,10 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "aws/aws-sdk-php": "*" 
+    },
+    "require-dev": { 
+        "heroku/heroku-buildpack-php": "^178.0"
+    }
+
+}

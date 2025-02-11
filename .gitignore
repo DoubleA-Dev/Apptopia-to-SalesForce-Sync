@@ -1,0 +1,12 @@
+vendor/
+.env
+tmp/
+tmp/access_token.txt
+tmp/instance_url.txt
+files/
+downloads/
+logs/account/
+logs/apps/
+logs/leads/
+apptopia-salesforce.sublime-project
+apptopia-salesforce.sublime-workspace
